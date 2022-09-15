@@ -13,4 +13,8 @@
 
 1. Создать репозиторий на GitHub -> [final_work_09_22][gb1]
 
+2. Нарисовать блок схему алгоритма (можно обойтись блок-схемой основной содержательной части, если вы выделяете ее в отдельный метод)-> [GB_i_w.jpg][gb2] или [GB_i_w.drawio][gb3]
+
 [gb1]: https://github.com/NikitaX007/final_work_09_22
+[gb2]: https://github.com/NikitaX007/final_work_09_22/blob/master/GB_i_w.jpg
+[gb3]: https://github.com/NikitaX007/final_work_09_22/blob/master/GB_i_w.drawio
