@@ -17,7 +17,22 @@
 
 3. Снабдить репозиторий оформленным текстовым описанием решения (файл Readмe.md) -> [README.md][gb4]
 
+4. Написать программу, решающую поставленную задачу -> [Program.cs][gb5]
+
+Комментарий:
+
+- операторы по преобразованию текста в массив и обратно:
+
+  * Оператор .Split - преобразует массив, разделителем между элементами является ","
+
+  * Оператор .Join - преобразует массив в текстовую строку разделяя элементы "," 
+
+- оператор для увеличения размера массива
+
+  * Оператор Array.Resize - увеличивает размер массива с сохранением данных находящихся в нем
+
 [gb1]: https://github.com/NikitaX007/final_work_09_22
 [gb2]: https://github.com/NikitaX007/final_work_09_22/blob/master/GB_i_w.jpg
 [gb3]: https://github.com/NikitaX007/final_work_09_22/blob/master/GB_i_w.drawio
 [gb4]: https://github.com/NikitaX007/final_work_09_22/blob/main/README.md
+[gb5]: https://github.com/NikitaX007/final_work_09_22/blob/master_2/zadanie/Program.cs
