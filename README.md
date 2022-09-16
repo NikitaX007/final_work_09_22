@@ -30,9 +30,12 @@
 - оператор для увеличения размера массива
 
   * Оператор Array.Resize - увеличивает размер массива с сохранением данных находящихся в нем
+  
+5. Использовать контроль версий в работе над этим небольшим проектом (не должно быть так что все залито одним коммитом, как минимум этап 2, 3 и 4 должны быть расположены в разных коммитах) -> [branches][gb6]
 
 [gb1]: https://github.com/NikitaX007/final_work_09_22
 [gb2]: https://github.com/NikitaX007/final_work_09_22/blob/master/GB_i_w.jpg
 [gb3]: https://github.com/NikitaX007/final_work_09_22/blob/master/GB_i_w.drawio
 [gb4]: https://github.com/NikitaX007/final_work_09_22/blob/main/README.md
 [gb5]: https://github.com/NikitaX007/final_work_09_22/blob/master_2/zadanie/Program.cs
+[gb6]: https://github.com/NikitaX007/final_work_09_22/branches
